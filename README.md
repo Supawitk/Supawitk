@@ -1,6 +1,6 @@
 # Tee
 
-### Photographer | Data | Retail | Logistics
+### Data | Retail
 
 ---
 
