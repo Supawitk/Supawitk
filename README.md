@@ -1,6 +1,6 @@
 # Tee
 
-### Data | Coffee | Retail
+### Data | Coffee
 
 ---
 
